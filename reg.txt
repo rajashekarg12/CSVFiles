@@ -1,0 +1,6 @@
+User = "hr"
+pwd="welcome1"
+User = "testuser"
+pwd="welcome1"
+User = "system"
+pwd="welcome1"
