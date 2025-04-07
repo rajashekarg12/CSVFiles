@@ -1,12 +1,4 @@
-Maharashtra
-Uttar Pradesh
-Karnataka
-Tamil Nadu
-Gujarat
-Rajasthan
-Punjab
-Kerala
-West Bengal
-Andhra Pradesh
-ll
-hhjj
+-- This script sets ownership of the resource
+RESOURCE_NAME = 'APP_SERVER'
+OWNER = admin
+STATUS = active
