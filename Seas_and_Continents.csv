@@ -1,5 +1,5 @@
 Colors Names,Fruits Name,City Name
-Red,Orange,Upland
-Blue,Mango,Orange
+REGEX-$1-City,Orange,Upland
+REGEX-$1-best,Mango,Orange
 Pink,Kiwi,
 Orange,Banana,Corona
