@@ -1,10 +1,1 @@
 REGEX-$1-United States is good
-Canada is good
-India
-Australia
-Brazil
-Germany
-Japan
-South Africa
-Mexico
-France
